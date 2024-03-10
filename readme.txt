@@ -1,30 +1,32 @@
-=== BlankSlate ===
+## Soccerhub WordPress Theme
 
-Contributors: bhadaway, tidythemes
-Donate link: https://opencollective.com/blankslate
-Theme link: https://opencollective.com/blankslate
-Tags: accessibility-ready, one-column, two-columns, custom-menu, featured-images, microformats, sticky-post, threaded-comments, translation-ready
-Requires at least: 5.2
-Tested up to: 6.5
-Stable tag: trunk
-License: GNU General Public License v3 or Later
-License URI: https://www.gnu.org/licenses/gpl.html
+**By Awonusi Abiodun**
 
-== Description ==
+This is the readme file for the Soccerhub WordPress theme.
 
-YOU MAY DELETE THIS FILE AND ANY OTHER FILE(S) BEFORE STARTING YOUR PROJECT
+**Description**
 
-BlankSlate is the definitive WordPress boilerplate starter theme. We've carefully constructed the most clean and minimalist theme possible for designers and developers to use as a base to build websites for clients or to build completely custom themes from scratch. Clean, simple, unstyled, semi-minified, unformatted, and valid code, SEO-friendly, jQuery-enabled, no programmer comments, standardized and as white label as possible, and most importantly, the CSS is reset for cross-browser-compatability and no intrusive visual CSS styles have been added whatsoever. A perfect skeleton theme. For support and suggestions, go to: https://github.com/tidythemes/blankslate/issues. Thank you.
+Soccerhub is a WordPress theme designed for sports websites, particularly those focused on soccer (football). It provides a clean and modern layout to showcase your content, including match reports, player profiles, team information, and more.
 
-If you're creating your own theme or client project, open up all files and do a "Find and Replace All in All Files" on the word "blankslate" with your own slug and prefix.
+**Features**
 
-=== License ===
+* Responsive design: adapts to different screen sizes (desktop, mobile, tablet)
+* Clean and modern layout
+* Theme options for customization (colors, fonts, etc.) - *Note: Specific options will depend on the theme's functionality*
+* Support for featured images
+* Social media integration - *Note: Specific integration will depend on the theme's functionality*
 
-In its unchanged and original state:
+**Installation**
 
-BlankSlate WordPress Theme © 2011-2024 TidyThemes
-BlankSlate is distributed under the terms of the GNU GPL
+1. Upload the theme folder to your `/wp-content/themes/` directory.
+2. Activate the Soccerhub theme through the WordPress admin panel.
 
-The BlankSlate theme package and all files contained within are distributed under the terms of the GNU GPL v3 or Later (https://www.gnu.org/licenses/gpl.html).
+**Customization**
 
-Once you've significantly changed the theme to build your own unique project, either for yourself or for a client under a different theme name (as is encouraged), you're entirely welcome to copyright and license that project as you see fit.
+* Theme options for basic customization might be available in the WordPress admin panel under Appearance > Customize.
+* Additional customization might require editing theme files (advanced users only).
+
+**Support**
+
+For any issues or questions, please refer to the theme documentation (if included) or contact the theme developer.
+
